@@ -52,7 +52,7 @@ Takım 176
 
 ### Sprint 4
 
-Ekleme ve çıkarma butonları oluşturuldu.
+- Ürün ekleme/çıkarma butonları oluşturuldu.
 
 
 
