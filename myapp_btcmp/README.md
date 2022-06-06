@@ -41,6 +41,9 @@ Takım 176
 ### Sprint 2 
 
 -appBar oluşturuldu.
+
+
+
 -Ürünlerin ekranda listeleneceği alan oluşturuldu.
 
 ### Sprint 3
