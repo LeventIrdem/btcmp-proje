@@ -4,7 +4,7 @@
 
 Takım 176
 
-## Ürün İle İlgili Bilgiler
+
 
 ### Takım Elemanları 
 
@@ -30,6 +30,28 @@ Takım 176
 ### Hedef Kitle
 
 - 7+ üzeri kullanıcılar
+
+
+
+### Sprint 1 
+
+- Ürünün temel hatları ve widget yapısı belirlenmiştir.
+
+
+### Sprint 2 
+
+-appBar oluşturuldu.
+-Ürünlerin ekranda listeleneceği alan oluşturuldu.
+
+### Sprint 3
+
+- Text girme alanı oluşturuldu.
+
+### Sprint 4
+
+Ekleme ve çıkarma butonları oluşturuldu.
+
+
 
 
 ### Ürün Ekran Görüntüleri
